@@ -1,0 +1,32 @@
+:root {
+  --background-color: hsl(257, 40%, 49%);
+  --accent-color: hsl(300, 69%, 71%);
+  --text-color: hsl(0, 0%, 100%);
+
+  /* font family */
+  --primary-font: "Poppins", Arial, Helvetica, sans-serif;
+  /* font weight */
+  --primary-weight-regular: 400;
+  --primary-weight-bold: 600;
+
+  /* font family */
+  --secondary-font: "Open Sans", Arial, Helvetica, sans-serif;
+  /* font weight */
+  --secondary-weight-regular: 400;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  max-height: 100vh;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
