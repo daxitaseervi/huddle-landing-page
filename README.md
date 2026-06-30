@@ -9,7 +9,7 @@ This project focuses on recreating a single-section landing page design. I used 
 - How to use media queries to make a desktop layout responsive on mobile.
 
 ## Project
-- Live Site URL: 
+- Live Site URL: https://daxitaseervi.github.io/huddle-landing-page/
 ![Project Screenshot](images/project-screenshot.png)
 
 ## Links
